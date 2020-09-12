@@ -1,0 +1,9 @@
+
+^
+java:S1192"HDefine a constant instead of duplicating this literal "success" 4 times.(ùØ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ¾şë
+M	java:S106 "9Replace this use of System.out or System.err by a logger.(¼‘³j
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Œ·à»ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(“éòĞúÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(şîD
+S	java:S106"9Replace this use of System.out or System.err by a logger.(„¬†…ÿÿÿÿÿ

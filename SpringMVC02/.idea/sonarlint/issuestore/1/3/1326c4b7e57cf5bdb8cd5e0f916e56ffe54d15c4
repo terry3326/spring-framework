@@ -1,0 +1,9 @@
+
+^
+java:S1192!"HDefine a constant instead of duplicating this literal "success" 4 times.(ùØ
+À
+java:S1598"¤This file "TestController.java" should be located in "com\atguigu\controller" directory, not in "C:\Users\a8001\Desktop\project\SpringMVC02\src\com\ntc\controller".(˜Ã§êûÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(Ó®æĞ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(›ª®¼øÿÿÿÿ
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(€ö¼á
+N	java:S106="9Replace this use of System.out or System.err by a logger.(¼ïŞ 
