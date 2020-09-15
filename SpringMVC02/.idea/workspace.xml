@@ -20,15 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a20353c6-04b4-4f9c-bcf6-02f7ed542476" name="默认的" comment="">
-      <change beforePath="$PROJECT_DIR$/../SpringMVC01/src/com/atguigu/bean/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVC01/src/com/NTC/bean/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringMVC01/src/com/atguigu/test/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVC01/src/com/NTC/test/TestController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/atguigu/bean/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ntc/bean/Address.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/atguigu/bean/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ntc/bean/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/atguigu/controller/ParamController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ntc/controller/ParamController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/atguigu/controller/RESTController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ntc/controller/RESTController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/atguigu/controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ntc/controller/TestController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springMVC03/springMVC03.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../springMVC03/springMVC03.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springMVC03/src/com/atguigu/controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springMVC03/src/com/NTC/controller/TestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/9/8920a8d16d280e2fa8f39dfd59967057dbc26aa6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,21 +56,6 @@
       <recent name="C:\Users\a8001\Desktop\project\SpringMVC02\src\com\ntc" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -87,6 +66,7 @@
       <updated>1599926397296</updated>
       <workItem from="1599926399207" duration="109000" />
       <workItem from="1599926585534" duration="44000" />
+      <workItem from="1600047753610" duration="353000" />
     </task>
     <servers />
   </component>
