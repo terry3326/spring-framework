@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
+
+        <!-- 掃描組件,將加上@controller註解的類作為springMVC的控制層 -->
+    <context:component-scan base-package="com.atguigu.test"></context:component-scan>
+        <!--
+            試圖解析器
+            作用:將prefix + 視圖名稱 + suffix 確定最終要跳轉的頁面
+            /WEB-INF/view/success.jsp
+         -->
+
+
+    <bean id="viewResolver" class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+        <!-- 前綴  -->
+        <property name="prefix" value="/WEB-INF/view/"></property>
+        <!-- 後綴  -->
+        <property name="suffix" value=".jsp"></property>
+    </bean>
+    
+
+</beans>
